@@ -1,9 +1,9 @@
 # CA06
 
-#About the Notebook
+# About the Notebook
 The notebook is written in Python to define, train, and evaluate a neural network on the MNIST dataset. Data has been optained using the following link https://github.com/ArinB/MSBA-CA-Data/raw/main/CA06/Mall_Customers.csv
 
-#Required Packages
+# Required Packages
 The notebook requires the following libraries to be installed:
 
 Seaborn
@@ -15,7 +15,7 @@ Pandas
 NumPy
 These libraries are installed in the notebook using the pip package manager.
 
-#Content
+# Content
 Section 1: Install Dependencies
 This section installs the necessary libraries for the notebook using pip.
 
